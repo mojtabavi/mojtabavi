@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EF700&width=435&lines=I'm+Ali+Mojtabvi;IOT+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Hello%2CThere+%F0%9F%91%8B;I'm+Mojtabavi;Control4+Driver+Developer;+Free+software%2C+ML%2C+AI+%26+IOT+enthusiast.)](https://git.io/typing-svg)
 
 <!--
 <p align="center"> 
