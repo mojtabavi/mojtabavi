@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EF700&width=435&lines=I'm+Ali+Mojtabvi;IOT+Developer)](https://git.io/typing-svg)
 
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mojtabavi/count.svg" />
 </p>
-                                                                  
+-->                                                                 
                                                                   
