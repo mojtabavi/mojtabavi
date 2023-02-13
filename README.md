@@ -22,8 +22,12 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/mojtabavi/count.svg" />
 </p>
 --> 
+<h2 align="left">Github Stats</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mojtabavi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -41,7 +45,7 @@ Here are some ideas to get you started:
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
    
-<h3 align="left">My Badges: </h3>
+<h2 align="left">My Badges</h2>
  <p align="center">
   <img src="https://user-images.githubusercontent.com/63472358/218496693-fb60bf00-f80f-450b-be6b-605efc44d68e.png" width="100" title="LPIC1">
   <img src="https://user-images.githubusercontent.com/63472358/218501287-a0d6151e-dbc0-4a79-ae09-d9463ebc693a.png" width="100" title="LPIC2">
