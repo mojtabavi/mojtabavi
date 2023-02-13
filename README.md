@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/63472358/218496693-fb60bf00-f80f-450b-be6b-605efc44d68e.png" width="100" title="LPIC1">
+  <img src="https://user-images.githubusercontent.com/63472358/218501287-a0d6151e-dbc0-4a79-ae09-d9463ebc693a.png" width="100" title="LPIC2">
   <img src="https://user-images.githubusercontent.com/63472358/218495983-902b362c-28e3-49df-b49c-f6c7d130e276.png" width="100" title="C4AI">
   <img src="https://user-images.githubusercontent.com/63472358/218491075-3b15596b-b735-4cee-9f41-a6d7a4bb9d13.png" width="100" title="COMPTIA-NETWORK">
   <img src="https://user-images.githubusercontent.com/63472358/218489903-5ad76e78-9a6e-4bd3-aeab-df7930fc6acb.png" width="100" title="ACIA">
@@ -35,7 +36,5 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/63472358/218493672-cc35b4d2-ee44-4851-9f50-b491dd6a4929.png" width="100" title="CCNA">
   <img src="https://user-images.githubusercontent.com/63472358/218494658-15ab5ab0-52ca-4409-9583-3df4c77f325a.png" width="100" title="MTCNA">
 </p>
-
-
 
 
