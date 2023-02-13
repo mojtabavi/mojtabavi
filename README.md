@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 --> 
 <h2 align="left">Github Stats</h2>
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mojtabavi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Mojtabavi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mojtabavi&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabavi&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2 align="left">Languages and Tools</h2>
