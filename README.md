@@ -26,6 +26,6 @@ Here are some ideas to get you started:
  ## My Badges
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/63472358/218489903-5ad76e78-9a6e-4bd3-aeab-df7930fc6acb.png" width="150" title="ACIA">
+  <img src="https://user-images.githubusercontent.com/63472358/218489903-5ad76e78-9a6e-4bd3-aeab-df7930fc6acb.png" width="80" title="ACIA">
 </p>
 
