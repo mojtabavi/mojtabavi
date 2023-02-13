@@ -30,10 +30,8 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/63472358/218489903-5ad76e78-9a6e-4bd3-aeab-df7930fc6acb.png" width="100" title="ACIA">
   <img src="https://user-images.githubusercontent.com/63472358/218490717-660a75eb-4cb1-425b-8f10-c61539330ee7.png" width="100" title="ACIP">
   <img src="https://user-images.githubusercontent.com/63472358/218490854-eb200704-ba3d-4ec9-85b4-1fe7da2a8dc1.png" width="100" title="ACIE">
-  <img src="https://user-images.githubusercontent.com/63472358/218491266-0910c24e-6d25-43dd-8925-86b4477d1b81.png" width="100" title="MTCNA">
+  <img src="https://user-images.githubusercontent.com/63472358/218494658-15ab5ab0-52ca-4409-9583-3df4c77f325a.png" width="100" title="MTCNA">
   <img src="https://user-images.githubusercontent.com/63472358/218493672-cc35b4d2-ee44-4851-9f50-b491dd6a4929.png" width="100" title="CCNA">
 </p>
-
-
 
 
