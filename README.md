@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabavi&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png
+
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
   <a href="https://www.lua.org/home.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
