@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/63472358/218493672-cc35b4d2-ee44-4851-9f50-b491dd6a4929.png" width="100" title="CCNA">
   <img src="https://images.credly.com/images/083854d8-3a8f-465c-b414-19507f9703d9/image.png" width="100" title="NSE-EXAM-V2-1">
   <img src="https://images.credly.com/images/39641a02-c97f-40d0-8773-d3a475954e9e/image.png" width="100" title="NSE-EXAM-V2-2">
+  <img src="https://images.credly.com/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" width="100" title="NSE-EXAM-V2-3">
   <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100" title="FCF">
+  <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width="100" title="FCA">
   <img src="https://user-images.githubusercontent.com/63472358/218494658-15ab5ab0-52ca-4409-9583-3df4c77f325a.png" width="100" title="MTCNA">
 </p>
