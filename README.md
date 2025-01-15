@@ -63,5 +63,9 @@ Here are some ideas to get you started:
   <img src="https://images.credly.com/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" width="100" title="NSE-EXAM-V2-3">
   <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100" title="FCF">
   <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width="100" title="FCA">
+  <img src="https://github.com/user-attachments/assets/eff77903-6a73-48dd-a572-f1b7db207789" width="100" title="VCP-DCV">
+  <img src="https://github.com/user-attachments/assets/549602ed-8856-418d-be8b-524143ac5d2c" width="100" title="VDI">
+  <img src="https://github.com/user-attachments/assets/83fdbd92-ac62-46ad-8202-4a4141f9e502" width="100" title="NSX">
   <img src="https://user-images.githubusercontent.com/63472358/218494658-15ab5ab0-52ca-4409-9583-3df4c77f325a.png" width="100" title="MTCNA">
 </p>
+![1391150aq-2023-cert-bdge-p-dcv-color-360x360](https://github.com/user-attachments/assets/07cce5c0-5130-4c22-9d05-9dee25de7a8c)
