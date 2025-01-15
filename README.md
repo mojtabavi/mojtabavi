@@ -68,4 +68,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/83fdbd92-ac62-46ad-8202-4a4141f9e502" width="100" title="NSX">
   <img src="https://user-images.githubusercontent.com/63472358/218494658-15ab5ab0-52ca-4409-9583-3df4c77f325a.png" width="100" title="MTCNA">
 </p>
-![1391150aq-2023-cert-bdge-p-dcv-color-360x360](https://github.com/user-attachments/assets/07cce5c0-5130-4c22-9d05-9dee25de7a8c)
