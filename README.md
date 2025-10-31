@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="left">My Skills</h2>
-<img alt="programming is rock n roll" src="[./img/get-wild.gif](https://github.com/user-attachments/assets/b81f6d18-0aea-45aa-ab5e-bac62f5884b6)" style="width: 100%; max-width:610px;" />
+<img alt="programming is rock n roll" src="https://github.com/user-attachments/assets/b81f6d18-0aea-45aa-ab5e-bac62f5884b6" style="width: 100%; max-width:610px;" />
 <p align="left"> 
   <a href="https://www.lua.org/home.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
